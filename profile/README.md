@@ -12,7 +12,7 @@
 現在のリード
 | Team Lead | Team |
 | ----------- | ----------- |
-| R.S. | TBD |
+| R.S. | Saber Helios |
 | N/A | TBD | 
 | N/A | TBD | 
 | N/A | TBD | 
@@ -30,7 +30,7 @@ Open for Project Managment as of 10/25/2024.
 Current Lead
 | Team Lead | Team |
 | ----------- | ----------- |
-| R.S. | TBD |
+| R.S. | Saber Helios |
 | N/A | TBD | 
 | N/A | TBD | 
 | N/A | TBD | 
